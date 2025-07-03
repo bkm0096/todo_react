@@ -1,7 +1,9 @@
-.App {
+.signup {
   text-align: center;
+  font-size: 20px;
 }
-label, input, button {
+
+  label, input, button {
   margin: 10px;
   padding: 5px;
   }
